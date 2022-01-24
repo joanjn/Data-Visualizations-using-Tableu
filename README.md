@@ -1,3 +1,3 @@
-# Data-Visualizations-using-Tableu
+# Data-Visualizations-using-Tableau
 
 https://public.tableau.com/app/profile/joan.nnadi#!/
